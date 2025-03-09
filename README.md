@@ -1,3 +1,5 @@
 # Streamlit-Bike-Sharing-Dataset
-##Cara Menjalankan
-streamlit run dashboard.py
+## Cara Menjalankan
+Jalankan perintah berikut di terminal:  
+```sh
+streamlit run penyewaan_sepeda.py
