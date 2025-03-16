@@ -8,7 +8,7 @@
 - `pip install matplotlib`
 - `pip install streamlit`
 
-## Cara Mengimpor Library
+## Cara Mengimport Library
 
 - `import pandas as pd`
 - `import seaborn as sns`
