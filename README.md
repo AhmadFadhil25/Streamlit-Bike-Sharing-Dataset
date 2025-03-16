@@ -1,18 +1,22 @@
 # Streamlit-Bike-Sharing-Dataset
-## Cara Menginstal library
-pip install pandas 
-pip install seaborn 
-pip install numpy as np
-pip install mathplotlib 
-pip install streamlit 
 
-## Cara mengimportkan library
-import pandas as pd 
-import seaborn sns
-import numpy as np
-import mathplotlib as plt
-import streamlit st
+## Cara Menginstal Library
+
+- `pip install pandas`
+- `pip install seaborn`
+- `pip install numpy`
+- `pip install matplotlib`
+- `pip install streamlit`
+
+## Cara Mengimpor Library
+
+- `import pandas as pd`
+- `import seaborn as sns`
+- `import numpy as np`
+- `import matplotlib.pyplot as plt`
+- `import streamlit as st`
 
 ## Cara Menjalankan Program
-```sh
+
+```bash
 streamlit run penyewaan_sepeda.py
